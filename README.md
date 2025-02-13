@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rhysfetner
-- 👀 I’m interested in Linux, MacOS, scripting, shell, Python, JavaScript, PHP, LAMP, SQL, cybersecurity, programming/development, technical writing mentors (would love to collab on open-source projects; possibly translate)
-- 🌱 I’m currently learning python and starting The Odin Project
+- 👀 I’m interested in Linux, MacOS, scripting, shell, Python, JavaScript, PHP, LAMP, SQL, cybersecurity, programming/development, technical writing
+- 🌱 I’m currently learning Python, Linux, and starting The Odin Project
 - 💞️ I’m looking to collaborate on technical writing experience - seeking mentor. 
-- 📫 How to reach me: rhysmorgan9393@gmail.com (Junk drawer email, I'm Morgan off the main)
+- 📫 How to reach me: rhysmorgan9393 at gmail.com (LN is Morgan off the main)
 - 🏳️‍⚧️ Pronouns: they/he 
 - ⚡ Fun facts: I enjoy watching birds and aspire to collect many languages.
 <!---
